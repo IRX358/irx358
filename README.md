@@ -1,3 +1,12 @@
+## Hello This is IR .... 
+You can visit my portfolio site here  - 🌐<a href="https://IRX358.github.io/irx358.github.io/" target='_blank' > View Live</a>
+
+
+Too Lazy !! Then just read this below to know my tech side 
+
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on `INSIDER NAVS`<br>🌱 I’m currently learning `ML` <br>💬 Ask me about `FULL STACK`<br>⚡ Fun fact `CURIOSITY DRIVES ME`
 
