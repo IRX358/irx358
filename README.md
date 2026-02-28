@@ -33,7 +33,7 @@
 
 
 # 💫 About Me:
-🧩 I’m currently working on `INSIDER NAVS`<br>🧐 I’m currently learning `ML` <br>🤔 Ask me about `FULL STACK`<br>⚡ Fun fact `CURIOSITY DRIVES ME`
+🧩 I’m currently working on `INSIDER NAVS`<br>🧐 I’m currently learning `CyberSec` <br>🤔 Ask me about `FULL STACK`<br>⚡ Fun fact `CURIOSITY DRIVES ME`
 
 
 ## 🌐 Socials:
