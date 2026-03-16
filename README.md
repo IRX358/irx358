@@ -44,8 +44,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/IRX358" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.instagram.com/this.is_ir?igsh=NXNqNHh0eW9hYzE3" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/irfan358" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -77,15 +77,7 @@
 </picture>
 
 ---
+---
 
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=&fontSize=0" width="100%"/>
-
-<div align="center">
-  
-  <!-- Animated Footer Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=©+2026+Irfan+IR;Built+with+CURIOSITY+⚡;Thanks+for+visiting!+🚀" alt="Footer Typing" />
-   
-</div>
 
 
