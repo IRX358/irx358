@@ -50,7 +50,7 @@
   <a href="https://linkedin.com/in/irfan358" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ir.358.786@google.com">
+  <a href="mailto:ir.358.786@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
