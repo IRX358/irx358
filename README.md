@@ -1,5 +1,5 @@
 # Hello This is IR .... 
-### You can visit my portfolio site here  - 🌐<a href="irfan.qzz.io" target='_blank' > View Live</a>
+### You can visit my portfolio site here  - 🌐<a href="https://irfan.qzz.io" target='_blank' > View Live</a>
 
 
  Too Lazy !! Then just read this below to know my tech side 
